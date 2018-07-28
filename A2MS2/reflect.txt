@@ -1,0 +1,3 @@
+Q1 Functions are sections of code that are used to focus on a small part of a larger task. They're used to keep code organized which would help with debugging specific parts of the code that are experiencing issues. It'd also help with finding the section you're looking for more quickly.
+
+Q2 The help functions were created in a separate module because they're more general functions that can be used outside of the contacts module.

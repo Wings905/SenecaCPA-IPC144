@@ -1,0 +1,7 @@
+﻿  contacts.c
+c:\users\traci\onedrive\repos\a1ms\contacts.c(46): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\traci\onedrive\repos\a1ms\contacts.c(77): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\traci\onedrive\repos\a1ms\contacts.c(106): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\traci\onedrive\repos\a1ms\contacts.c(114): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\traci\onedrive\repos\a1ms\contacts.c(122): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+  A1MS.vcxproj -> C:\Users\traci\OneDrive\Repos\A1MS\Debug\A1MS.exe

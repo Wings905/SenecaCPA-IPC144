@@ -1,0 +1,5 @@
+Q1 Asking to create the struct Contact makes me think and challenges my understanding of structs, pointers, and functions.
+
+Q2 The most difficult part for me was writing a valid parameter for each function. It was a bit confusing with all the different name and having variables within variables. I struggled a bit with the prototypes as well.
+
+Q3 This took me about 3-4 hours to complete.

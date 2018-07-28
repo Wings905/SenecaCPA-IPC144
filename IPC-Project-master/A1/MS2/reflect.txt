@@ -1,0 +1,3 @@
+Q1 It'd be more efficient to take user input like websites do when, say, you sign up for an acccount. Instead of prompting for each field, all of the fields are listed and the user can input where neccessary and where optional if they'd like. It'd make it easier for the user to fix any mistakes.
+
+Q2 A C string should always have at least one index greater than the intended size so that the string or array can store the newline character.

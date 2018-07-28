@@ -1,0 +1,3 @@
+Q1 The advantages to an arrays of structs over parallel arrays is ease of use. It's the equivalent to handling multiple parallel arrays at the same time. Parallel arrays are more helpful when you want to change a specific element.
+
+Q2 The reason why putting structs in header files is preferrable is because it's a general formula that can be applied to different scenarios/codes so time would be saved and the code would only have to be debugged once.

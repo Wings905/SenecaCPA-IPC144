@@ -1,0 +1,25 @@
+1) The 3 iteration constructs are:
+   while
+   do while
+   for
+
+2) A "while" loop begins with a condition that must be met before the code in the curly braces are executed then will go back to see if the condition is still true. A "do while" loop executes the code first then looks at the condition after then will repeat if the condition is true.
+
+3) A conditional expression is a construct that will proceed with one of two operands based on whether the given condition is true or false.
+
+-----------------------------------------------------------
+
+QUIZ REFLECTION							Tracy Nguyen
+Quiz 3 Version 2						127270171
+
+Q1 Mistake: True
+   Correction: False
+
+Q2 Mistake: int marks [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+   Correction: int marks[10]
+
+Q3 Mistake: float nums [1.6, 9.4, 3.2]
+   Correction: float nums[3] = {1.6, 9.4 3.2}
+
+Q4 Mistake: 6
+   Correction: 8

@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (A1MS4.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  contacts.c
+c:\users\traci\onedrive\repos\a1ms4\contacts.c(131): error C2143: syntax error: missing ';' before '{'
+  a1ms4.c
+  Generating Code...

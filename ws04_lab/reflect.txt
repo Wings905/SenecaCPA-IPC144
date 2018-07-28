@@ -1,0 +1,19 @@
+Q1 Arrays are declared with 10 elements because there high and low temperatures that can be recorded up to 10 days. An array is made for the highs and the lows.
+
+Q2 The advantages to matching arrays are that they can hold separate data but retrieve the matching data between the arrays if given the same value (It's convienent). A disadvantage is there is the size of arrays aren't dynamic.
+
+Q3 For me, it was a little above just right because there were many variables to work with. Following a compiler's train of thought takes a lot of time and sometimes you miss it. Sometimes I'd need to just write it out to organize what I'm thinking.
+
+
+-------------------------------------------------------------------------------------------
+Quiz Reflection
+Quiz 4 Reflection						Tracy Nguyen
+Version 1							127270171
+
+MARK: 8 (Eight)
+
+Q2 Mistake: struct Product prd = {9876, {12.34f}};
+   Answer:  struct Product prd = {9876, 12.34f};
+
+Q3 Mistake: struct Product outOfStock = {"2468", {99.99f}};
+   Answer:  struct Product outOfStock = {2468, 99.99f};

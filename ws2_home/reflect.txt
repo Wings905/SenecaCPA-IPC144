@@ -1,0 +1,23 @@
+Tracy Nguyen
+127270171
+Q1 I think the most important thing I can take from this workshop is the importance of planning before you write code to see where your program can go and where it should go.
+
+Q2 Adding 0.005 after GST is required because the program doesn't understand the purpose of the program nor does it understand rounding, so it ends up taking a value that is close to what it should be but not quite. Instead of 1.13, the value taken is 1.1284, so when you add that 0.005 you're rounding it to the value it should be.
+
+Q3 When a variable is type casted, its' type is changed.
+
+Q4 To understand how modulous works but to also understand when the same sign is being used for calculations or for specifying types.
+
+
+--------------------------------------------------------------------------------------------
+QUIZ REFLECTION
+Quiz 2 Reflection						Tracy Nguyen
+								127270171
+
+Q3 Mistake: AAA
+	    BBB
+	    CCC
+
+   Answer:  AAA
+	    BBB
+		

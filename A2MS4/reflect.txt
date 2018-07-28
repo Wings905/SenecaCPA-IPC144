@@ -1,0 +1,6 @@
+Milestone 4 Reflection					127270171
+							Tracy Nguyen
+
+Q1. Having functions like findContactIndex and getTenDigitPhone in a code like milestone 4 makes it much cleaner and rather reading through the same piece of code wherever applicable to recall the code's purpose, there's a function call which will give you an idea of what it does by its' name. This would also help with errors and runtimes since this code is isolated in one location.
+
+Q2. Completing this Assignment challenged the logic I have as a programmer.

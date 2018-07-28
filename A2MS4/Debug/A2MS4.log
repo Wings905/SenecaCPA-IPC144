@@ -1,0 +1,22 @@
+﻿  contacts.c
+c:\users\traci\onedrive\repos\a2ms4\contacts.c(64): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[7]'
+c:\users\traci\onedrive\repos\a2ms4\contacts.c(64): warning C4024: 'strcpy': different types for formal and actual parameter 1
+c:\users\traci\onedrive\repos\a2ms4\contacts.c(64): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char (*)[7]'
+c:\users\traci\onedrive\repos\a2ms4\contacts.c(64): warning C4024: 'strcpy': different types for formal and actual parameter 2
+c:\users\traci\onedrive\repos\a2ms4\contacts.c(97): warning C4133: 'function': incompatible types - from 'int *' to 'char *'
+c:\users\traci\onedrive\repos\a2ms4\contacts.c(97): warning C4133: 'function': incompatible types - from 'int *' to 'const char *'
+c:\users\traci\onedrive\repos\a2ms4\contacts.c(144): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[11]'
+c:\users\traci\onedrive\repos\a2ms4\contacts.c(144): warning C4024: 'strcpy': different types for formal and actual parameter 1
+c:\users\traci\onedrive\repos\a2ms4\contacts.c(144): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char (*)[11]'
+c:\users\traci\onedrive\repos\a2ms4\contacts.c(144): warning C4024: 'strcpy': different types for formal and actual parameter 2
+  contactHelpers.c
+c:\users\traci\onedrive\repos\a2ms4\contacthelpers.c(480): warning C4133: 'function': incompatible types - from 'Name *' to 'char *'
+c:\users\traci\onedrive\repos\a2ms4\contacthelpers.c(480): warning C4133: 'function': incompatible types - from 'const Name *' to 'const char *'
+c:\users\traci\onedrive\repos\a2ms4\contacthelpers.c(491): warning C4133: 'function': incompatible types - from 'Address *' to 'char *'
+c:\users\traci\onedrive\repos\a2ms4\contacthelpers.c(491): warning C4133: 'function': incompatible types - from 'const Address *' to 'const char *'
+c:\users\traci\onedrive\repos\a2ms4\contacthelpers.c(502): warning C4133: 'function': incompatible types - from 'Numbers *' to 'char *'
+c:\users\traci\onedrive\repos\a2ms4\contacthelpers.c(502): warning C4133: 'function': incompatible types - from 'const Numbers *' to 'const char *'
+c:\users\traci\onedrive\repos\a2ms4\contacthelpers.c(541): warning C4133: 'function': incompatible types - from 'Contact *' to 'char *'
+c:\users\traci\onedrive\repos\a2ms4\contacthelpers.c(541): warning C4133: 'function': incompatible types - from 'const Contact *' to 'const char *'
+  Generating Code...
+  A2MS4.vcxproj -> C:\Users\traci\OneDrive\Repos\A2MS4\Debug\A2MS4.exe
